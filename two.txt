@@ -1,2 +1,6 @@
 two.txt,
+<<<<<<< HEAD
+sim-soln-mantuk
+=======
 sim-sol
+>>>>>>> parent of 3eed3fe (Revert "Revert "add in line 2 of two.txt"")
